@@ -20,4 +20,4 @@ class Solution:
       elif maxLeft1 > minRight2:
         r = partition1 - 1
       else:
-        l = partition1 + 
+        l = partition1 + 1
